@@ -1,4 +1,4 @@
-# Lập trình mạng 
+# Network programming
 Chương trình client-server, với mục đích chính là giao tiếp giữa máy khách (client) và máy chủ (server). Sử dụng phương thức UDP
 Mục đích: File này chứa mã nguồn của phía client (máy khách), nơi người dùng nhập thông điệp và gửi thông điệp đó tới server. Nó thường bao gồm việc tạo kết nối tới server, gửi dữ liệu, và nhận phản hồi từ server.
 
